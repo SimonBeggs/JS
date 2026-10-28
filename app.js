@@ -18,7 +18,7 @@ let users = [
 ];
 
 function login(email, password) {
-  for (let i = 0; i < users.length ++i){
+  for (let i = 0; i < users.length; ++i){
   console.log(users[i]);
   }
 }
